@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\ThreeTierApplication\DataLayerApplication\obj\Debug\DataLayerApplication.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ThreeTierApplication\DataLayerApplication\obj\Debug\DataLayerApplication.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ThreeTierApplication\DataLayerApplication\bin\Debug\DataLayerApplication.dll
+C:\Users\HP\source\repos\ThreeTierApplication\DataLayerApplication\bin\Debug\DataLayerApplication.pdb
+C:\Users\HP\source\repos\ThreeTierApplication\DataLayerApplication\obj\Debug\DataLayerApplication.dll
+C:\Users\HP\source\repos\ThreeTierApplication\DataLayerApplication\obj\Debug\DataLayerApplication.pdb

@@ -1,0 +1,9 @@
+C:\Users\HP\source\repos\ThreeTierApplication\BusinessLayerApplication\obj\Debug\BusinessLayerApplication.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ThreeTierApplication\BusinessLayerApplication\bin\Debug\BusinessLayerApplication.dll
+C:\Users\HP\source\repos\ThreeTierApplication\BusinessLayerApplication\bin\Debug\BusinessLayerApplication.pdb
+C:\Users\HP\source\repos\ThreeTierApplication\BusinessLayerApplication\bin\Debug\DataLayerApplication.dll
+C:\Users\HP\source\repos\ThreeTierApplication\BusinessLayerApplication\bin\Debug\DataLayerApplication.pdb
+C:\Users\HP\source\repos\ThreeTierApplication\BusinessLayerApplication\obj\Debug\BusinessLayerApplication.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ThreeTierApplication\BusinessLayerApplication\obj\Debug\BusinessLayerApplication.csproj.CopyComplete
+C:\Users\HP\source\repos\ThreeTierApplication\BusinessLayerApplication\obj\Debug\BusinessLayerApplication.dll
+C:\Users\HP\source\repos\ThreeTierApplication\BusinessLayerApplication\obj\Debug\BusinessLayerApplication.pdb
